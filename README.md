@@ -21,6 +21,8 @@
 <!-- Empty Image Tag to help with positioning -->
 <img/>
 
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobflasko)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   
  <summary> <h3>👨‍💻 My Coding Journey</h3></summary>
