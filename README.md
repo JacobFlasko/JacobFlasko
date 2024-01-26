@@ -26,6 +26,9 @@
 <details>
   
  <summary> <h3>👨‍💻 My Coding Journey</h3></summary>
+ 
+<!--&nbsp is a workaround for indentation in markdown -->
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior to delving into the world of coding, I held a rather uninspired view of software engineering – something mundane, excessively mathematical, and frankly unexciting. It wasn't a career path I envisioned for myself. However, upon graduating high school, I found myself at a crossroads, with no clear direction ahead. It was during this time that I stumbled upon countless videos featuring charismatic individuals, often with charming British accents, promising lucrative salaries of $200K or more for those who mastered the art of coding. Intrigued and somewhat skeptical, I decided, "Why not give it a try?" 
 <br>
 <br>
