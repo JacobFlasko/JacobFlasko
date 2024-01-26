@@ -18,10 +18,14 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 
+#
+
 <!-- Empty Image Tag to help with positioning -->
 <img/>
 
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobflasko)](https://github.com/anuraghazra/github-readme-stats)
+
+#
 
 <details>
   
