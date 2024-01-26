@@ -4,7 +4,7 @@
 
 ---
 
-### 🧰 Languages and Tools
+### 💻 Languages and Tools 🛠
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -30,7 +30,6 @@
 <!--&nbsp is a workaround for indentation in markdown -->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Prior to delving into the world of coding, I held a rather uninspired view of software engineering – something mundane, excessively mathematical, and frankly unexciting. It wasn't a career path I envisioned for myself. However, upon graduating high school, I found myself at a crossroads, with no clear direction ahead. It was during this time that I stumbled upon countless videos featuring charismatic individuals, often with charming British accents, promising lucrative salaries of $200K or more for those who mastered the art of coding. Intrigued and somewhat skeptical, I decided, "Why not give it a try?" 
-<br>
 <br>
     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the moment I typed my inaugural "print('Hello World')" command, I was captivated. Programming ignited a passion within me that I hadn't anticipated. As I ventured further into the labyrinth of software development, I discovered a profound joy in crafting practical, elegant, and aesthetically pleasing applications. There's something immensely satisfying about showcasing a project to someone unfamiliar with the world of coding and witnessing their genuine awe, rather than presenting a simplistic command-line interface. <br>
